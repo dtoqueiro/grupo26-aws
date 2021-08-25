@@ -4,7 +4,7 @@
 		"nome": "string",
 		"email": "string",
 		"telefone": "string",
-		"prospecto": "date",
-		"cliente": "date | false"
+		"prospectSince": "date",
+		"clientSince": "date | false"
 	}
 ]
